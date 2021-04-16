@@ -1,0 +1,2357 @@
+{
+  "current": {
+    "product_key": "",
+    "ano_color_bg": "# f042a8",
+    "color_topheader-text": "#ffffff",
+    "tophead_text_color_hover": "# 474545",
+    "color_header": "# 080808",
+    "head_text_color": "# f8f2f2",
+    "color_body_bg": "#ffffff",
+    "color_body_text": "# 000000",
+    "color_text": "# 3d4246",
+    "megamenu_color_text": "# f042a8",
+    "color_product_title": "# 494343",
+    "color_price_text": "# 3a4247",
+    "color_sale_text": "# f042a8",
+    "color_borders": "#ebebeb",
+    "color_button": "# f042a8",
+    "color_button_text": "#ffffff",
+    "sp_button": "# f042a8",
+    "sp_button_txt": "#ffffff",
+    "color_small_button": "#F F F",
+    "color_small_button_text": "# 3d4246",
+    "color_stock_left": "# ff8e3b",
+    "progressBar_bg_color": "# ff8e3b",
+    "color_text_field": "#ffffff",
+    "color_text_field_text": "# 000",
+    "color_image_overlay_text": "#ffffff",
+    "color_image_overlay": "# 5c5c5c",
+    "color_overlay_button": "#F F F",
+    "color_overlay_button_text": "# 3d4246",
+    "background_color": "#dcdcdc",
+    "custom_text_color": "# 000000",
+    "discount_bg_color": "#ffffff",
+    "discount_normal_text_color": "# 000000",
+    "discount_bold_text_color": "# f042a8",
+    "discount_btn_color": "# f042a8",
+    "discount_btn_txt_color": "#ffffff",
+    "hover_color": "# 000",
+    "sale_button_option_one_color": "# f042a8",
+    "sale_button_option__text_one_color": "#ffffff",
+    "free_button_option_one_color": "# ff8e00",
+    "free_button_option__text_one_color": "#ffffff",
+    "soldout_button_option_one_color": "# e80b0b",
+    "soldout_button_option__text_one_color": "#ffffff",
+    "dynamicaddtocart_button": "# ff8e00",
+    "dynamicaddtocart_button_txt": "#F F F",
+    "dynamiccheckout_button": "# 0dbd21",
+    "dynamiccheckout_button_txt": "#F F F",
+    "related_popup_heading_font_color": "# f042a8",
+    "delivery_text_color": "# 000000",
+    "badges_color": "# 000000",
+    "logo_icon": "fa-cuore",
+    "icon_side": "sinistra",
+    "logo_font_style": "Google_Ubuntu_400_sans",
+    "logo_font_weight": "grassetto",
+    "logo_font_trans": "maiuscolo",
+    "menu_font_style": "Google_Ubuntu_400_sans",
+    "menu_font_weight": "grassetto",
+    "menu_font_trans": "maiuscolo",
+    "strip_font_style": "Google_Ubuntu_400_sans",
+    "strip_font_weight": "grassetto",
+    "strip_font_trans": "maiuscolo",
+    "type_header_family": "Google_Ubuntu_400_sans",
+    "heading_weight": "600",
+    "heading_trans": "maiuscolo",
+    "subhead_font": "Poppins",
+    "subhead_weight": "normale",
+    "subhead_font_trans": "nessuna",
+    "type_title_family": "Google_Ubuntu_400_sans",
+    "title_weight": "600",
+    "title_trans": "maiuscolo",
+    "title_position": "centro",
+    "type_base_family": "Poppins",
+    "imgsldover_title": "Google_Ubuntu_400_sans",
+    "imgsldover_weight": "600",
+    "imgsldover_trans": "maiuscolo",
+    "imgsldover_sub_title": "Google_Ubuntu_400_sans",
+    "imgsldover_sub_weight": "400",
+    "imgsldover_sub_trans": "maiuscolo",
+    "timer_font_family": "Poppins",
+    "timer_sub_font_family": "Poppins",
+    "delivery_font_family": "Poppins",
+    "favicon": "",
+    "select_dropdown": "auto_currency",
+    "currency_format": "money_format",
+    "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+    "discount_popup_time": "0.30",
+    "discount_icon": "",
+    "discount_popup_title": "20% DI SCONTO",
+    "discount_popup_description1": "Iscriviti alla nostra newsletter per uno sconto del 10% aggiuntivo sul tuo primo ordine!",
+    "discount_popup_link_text": "CHIUDI QUESTA PAGINA",
+    "discount_popup_submit_text": "<span>Grazie !</span>",
+    "salepopup_position": "superiore",
+    "notification_popup_time": "10000",
+    "popup_randomly_collection": "",
+    "buttom_message": "Qualcuno ha acquistato un file",
+    "mailchimp_link": "",
+    "klaviyo_link": "",
+    "sale_button_option": "sale_button_option_one",
+    "search_result": "only_product",
+    "show_discount_amount": "percent_save",
+    "mobile_grid_1": "on_mobile_set_row_two",
+    "btn_text": "Mostra tutto",
+    "enable_timer_stg": "enable_timer_custom",
+    "enable_timer_reset_every_day": "19:00:00",
+    "enable_inventory_stock_number": "enable_stock_number_random",
+    "share_image": "",
+    "social_title": "Seguici",
+    "social_twitter_link": "",
+    "social_facebook_link": "",
+    "social_pinterest_link": "",
+    "social_instagram_link": "",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "sinistra",
+    "checkout_logo_size": "medio",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#F F F",
+    "checkout_input_background_color_mode": "bianca",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "# 1990c6",
+    "checkout_button_color": "# 1990c6",
+    "checkout_error_color": "# ff6d6d",
+    "menu_mega": "",
+    "select_menu_view": "show_both_collection_product",
+    "hide_right_click": "falso",
+    "hide_content": "falso",
+    "tim_font_family": "Google_Muli_600_sans",
+    "tim_lbl_family": "Poppins",
+    "enable_timer_stg_on": "enable_timer_stg_on",
+    "timer_cookies_set_type": "timer_cookies_set_diff",
+    "heading_font_style": "Poppins",
+    "heading_font_weight": "accendino",
+    "heading_font_trans": "nessuna",
+    "text_font_style": "Poppins",
+    "cap_font_weight": "grassetto",
+    "timer_top_message_value_before": "Solo",
+    "timer_top_message_value_after": "SINISTRA",
+    "discount_border_color": "# 000000",
+    "newsletter_header": "# 000000",
+    "newsletter_subheading": "# 000000",
+    "related_popup_text_font_color": "# 000000",
+    "r_continue_shoping_color": "#ffffff",
+    "r_view_cart_color": "# 6c756c",
+    "r_checkout_color": "# 002500",
+    "type_title_base_size_1": "26",
+    "SO_heading_font_style": "Poppins",
+    "SO_sub_heading_font_style": "Poppins",
+    "mega_menu_1": "falso",
+    "mega_menu_2": "falso",
+    "mega_menu_3": "falso",
+    "mega_menu_4": "falso",
+    "mega_menu_5": "falso",
+    "related_popup_heading_font_family": "Arial",
+    "related_popup_heading_font_size": "30",
+    "enable_related_upsell": "vero",
+    "related_popup_text_font_family": "Ek Mukta",
+    "related_popup_text_font_size": "20",
+    "default_currency": "CAD",
+    "dil_font_family": "Montserrat",
+    "head_color_text": "#ffffff",
+    "product_family": "Google_Work + Sans_400_sans",
+    "type_header_base_size": "26px",
+    "type_base_size": "16px",
+    "sections": {
+      "header": {
+        "type": "intestazione",
+        "blocks": {
+          "1536139291068": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "Abiti"
+            }
+          },
+          "1536141502796": {
+            "type": "mega_menu",
+            "settings": {
+              "navigation_mega_menu": "Catalogare"
+            }
+          }
+        },
+        "block_order": {
+          "0": "1536139291068",
+          "1": "1536141502796"
+        },
+        "settings": {
+          "align_logo": "centro",
+          "logo": "",
+          "desktop_logo_size": "30%",
+          "logo_mobile": "",
+          "mobile_logo_size": "30%",
+          "main_linklist": "menu principale",
+          "shopping_icon": "predefinito",
+          "header_strip_text_contact": "+61 490136331",
+          "header_strip_text_email": "md@mad-dame.com",
+          "header_strip_text_link_name": "Modifica questa stringa, tema gratuito"
+        }
+      },
+      "footer": {
+        "type": "piè di pagina",
+        "blocks": {
+          "1520514625558": {
+            "type": "testo",
+            "settings": {
+              "logo": "",
+              "desktop_logo_size": "50%",
+              "title": "",
+              "content": "<p>I prodotti glitter DAMED derivano dalla frase <i>&quot;To get Damed&quot;</i> , come <i>&quot;Be Mad Damed&quot;</i> come estensione dei ritratti di Mad Dame decorati con glitter.</p>"
+            }
+          },
+          "1521520287493": {
+            "type": "link_list",
+            "settings": {
+              "menu": "menu principale"
+            }
+          },
+          "1520514274895": {
+            "type": "link_list",
+            "settings": {
+              "menu": ""
+            }
+          },
+          "1521800689906": {
+            "type": "customer_shopify",
+            "settings": {}
+          }
+        },
+        "block_order": {
+          "0": "1520514625558",
+          "1": "1521520287493",
+          "2": "1520514274895",
+          "3": "1521800689906"
+        },
+        "settings": {
+          "shop_name": ""
+        }
+      },
+      "product-template": {
+        "type": "modello-prodotto",
+        "settings": {
+          "buy_it_now_action": "direct_to_cart",
+          "enable_timer_stg_on": "enable_timer_stg_off",
+          "variant_swacth": "uno",
+          "swatch_option": "with_background",
+          "color_style": "scatola quadrata",
+          "visitor_counter_number": "30-50",
+          "delivery_time_number": "14-30",
+          "product_description": "under_the_timer",
+          "sticky_button": "show_progress_bar",
+          "enable_trust_badges_image": ""
+        }
+      },
+      "password-header": {
+        "type": "intestazione della password",
+        "settings": {
+          "logo": "",
+          "logo_max_width": "100",
+          "header": "Prossimamente"
+        }
+      },
+      "password-content": {
+        "type": "contenuto della password",
+        "settings": {
+          "newsletter_form_heading": "Sii il primo a sapere quando lanciamo.",
+          "newsletter_placeholder": "Indirizzo e-mail",
+          "newsletter_button_text": "Avvisami"
+        }
+      },
+      "password-footer": {
+        "type": "piè di pagina della password",
+        "settings": {
+          "social_message": "Diffondere la parola"
+        }
+      },
+      "releted_upsell_popup": {
+        "type": "releted_upsell_popup",
+        "settings": {}
+      },
+      "collection-template": {
+        "type": "modello di raccolta",
+        "settings": {
+          "on_desktop_title_set": "title_set_line_trim",
+          "on_mobile_title_set": "mobile_title_set_line_full"
+        }
+      },
+      "related-product": {
+        "type": "prodotti correlati",
+        "settings": {}
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_timer_color": "# f30909",
+          "cart_left_image": "",
+          "cart_right_image": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "tutti",
+          "sort": "alfabetico",
+          "grid": "3",
+          "btn_text": "Mostra tutto"
+        }
+      },
+      "article-template": {
+        "type": "modello di articolo",
+        "settings": {
+          "heading_title": "Dettaglio notizie",
+          "image": ""
+        }
+      },
+      "blog-template": {
+        "type": "modello di blog",
+        "settings": {
+          "image": "",
+          "layout": "griglia"
+        }
+      },
+      "contact-page": {
+        "type": "pagina di contatto",
+        "settings": {
+          "image": ""
+        }
+      },
+      "map": {
+        "type": "carta geografica",
+        "settings": {
+          "imagelogo": "",
+          "desktop_logo_size": "30%",
+          "address": "<p>123 Falso St.<br> Toronto, Canada</p><p> Dal lunedì al venerdì, dalle 10:00 alle 21:00<br> Sabato, 11:00 - 21:00<br> Domenica, dalle 11:00 alle 17:00</p>",
+          "map_address": "80 Spadina Ave, Toronto",
+          "button_text": "Ottenere indicazioni",
+          "api_key": "",
+          "background_image": "",
+          "background_image_position": "centro centro"
+        }
+      },
+      "1522671161106": {
+        "type": "Presentazione",
+        "blocks": {
+          "1522671161106-1": {
+            "type": "Immagine",
+            "settings": {
+              "image": "",
+              "alignment": "superiore",
+              "title": "DANNEGGIATI",
+              "subheading": "#getdamed: avere una pelle esterna creata per riflettere la tua essenza interiore.",
+              "button_label": "",
+              "link": ""
+            }
+          },
+          "1523536475248": {
+            "type": "Immagine",
+            "settings": {
+              "image": "",
+              "alignment": "superiore",
+              "title": "Diapositiva immagine",
+              "subheading": "Racconta la storia del tuo marchio attraverso video e immagini",
+              "button_label": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": {
+          "0": "1522671161106-1",
+          "1": "1523536475248"
+        },
+        "settings": {
+          "autoplay_speed": "5000",
+          "slideshow_height": "pieno",
+          "heading_divider": "nessuna"
+        }
+      },
+      "1522671213521": {
+        "type": "rich text",
+        "settings": {
+          "section_title": "",
+          "text": "<p><strong>I prodotti DAMED GLITTER</strong> sono realizzati a mano con amore e intenzione. Fai parte del Glitter Army, che diffonde amore, gioia e trasformazione quando indossi e condividi l&#39;amore glitterato.</p>",
+          "text_size": "grande"
+        }
+      },
+      "1522671286117": {
+        "type": "collezione",
+        "settings": {
+          "title": "I MIGLIORI VENDITORI",
+          "collection": "prima pagina",
+          "mobile_grid": "on_mobile_set_row_two"
+        }
+      },
+      "1522671309651": {
+        "type": "eroe",
+        "settings": {
+          "image": "",
+          "alignment": "centro",
+          "text_alignment": "centro",
+          "title": "Immagine con testo in sovrimpressione",
+          "heading_divider": "nessuna",
+          "text": "<p>Usa il testo in sovrimpressione per offrire ai tuoi clienti informazioni sul tuo marchio. Seleziona immagini e testo che si riferiscono al tuo stile e alla tua storia.</p>",
+          "hero_size": "medio",
+          "text_size": "medio",
+          "button_label": "",
+          "button_link": "",
+          "button_size": "piccolo"
+        }
+      },
+      "1522671482965": {
+        "type": "riga delle caratteristiche",
+        "blocks": {
+          "1522671482965-0": {
+            "type": "image_with_text_1",
+            "settings": {
+              "image": "",
+              "layout": "sinistra",
+              "text_alignment": "sinistra",
+              "title": "Immagine con testo",
+              "text": "<p>Accoppia un testo di grandi dimensioni con un&#39;immagine per concentrarti sul prodotto, la raccolta o il post del blog scelto. Aggiungi dettagli su disponibilità, stile o fornisci anche una recensione.</p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1522671482965-1": {
+            "type": "image_with_text_1",
+            "settings": {
+              "image": "",
+              "layout": "giusto",
+              "text_alignment": "sinistra",
+              "title": "Immagine con testo",
+              "text": "<p>Accoppia un testo di grandi dimensioni con un&#39;immagine per concentrarti sul prodotto, la raccolta o il post del blog scelto. Aggiungi dettagli su disponibilità, stile o fornisci anche una recensione.</p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": {
+          "0": "1522671482965-0",
+          "1": "1522671482965-1"
+        },
+        "settings": {
+          "layout": "pieno"
+        }
+      },
+      "1522671586612": {
+        "type": "raccolta-elenco",
+        "blocks": {
+          "1522671586612-0": {
+            "type": "raccolta_in primo piano",
+            "settings": {
+              "collection": "",
+              "image": ""
+            }
+          },
+          "1522671586612-1": {
+            "type": "raccolta_in primo piano",
+            "settings": {
+              "collection": "",
+              "image": ""
+            }
+          },
+          "1522671586612-2": {
+            "type": "raccolta_in primo piano",
+            "settings": {
+              "collection": "",
+              "image": ""
+            }
+          },
+          "1522671586612-3": {
+            "type": "raccolta_in primo piano",
+            "settings": {
+              "collection": "",
+              "image": ""
+            }
+          }
+        },
+        "block_order": {
+          "0": "1522671586612-0",
+          "1": "1522671586612-1",
+          "2": "1522671586612-2",
+          "3": "1522671586612-3"
+        },
+        "settings": {
+          "layout": "full_without_spacing",
+          "title": "Elenco delle collezioni"
+        }
+      },
+      "1522671638827": {
+        "type": "citazioni",
+        "blocks": {
+          "1522671638827-0": {
+            "type": "citazione",
+            "settings": {
+              "t_image": "",
+              "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+              "author": "Nome dell'autore"
+            }
+          },
+          "1522671638827-1": {
+            "type": "citazione",
+            "settings": {
+              "t_image": "",
+              "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+              "author": "Nome dell'autore"
+            }
+          },
+          "1522671638827-2": {
+            "type": "citazione",
+            "settings": {
+              "t_image": "",
+              "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+              "author": "Nome dell'autore"
+            }
+          }
+        },
+        "block_order": {
+          "0": "1522671638827-0",
+          "1": "1522671638827-1",
+          "2": "1522671638827-2"
+        },
+        "settings": {
+          "title": "Testimonianze"
+        }
+      },
+      "1522671769410": {
+        "type": "newsletter",
+        "settings": {
+          "section_title": "Iscriviti alla nostra Newsletter",
+          "subheading": "Una breve frase che descrive ciò che qualcuno riceverà iscrivendosi",
+          "newsletter_section_text_align": "centro",
+          "image": ""
+        }
+      },
+      "1522671815227": {
+        "type": "Instagram",
+        "settings": {
+          "instagram_client_id": "",
+          "instagram_title": "Instagram"
+        }
+      },
+      "1522671853847": {
+        "type": "barra delle immagini",
+        "blocks": {
+          "1522671853847-0": {
+            "type": "Immagine",
+            "settings": {
+              "image": "",
+              "alignment": "centro",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "1522671853847-1": {
+            "type": "Immagine",
+            "settings": {
+              "image": "",
+              "alignment": "centro",
+              "link": "",
+              "cta_label": ""
+            }
+          },
+          "1522671853847-2": {
+            "type": "Immagine",
+            "settings": {
+              "image": "",
+              "alignment": "centro",
+              "link": "",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": {
+          "0": "1522671853847-0",
+          "1": "1522671853847-1",
+          "2": "1522671853847-2"
+        },
+        "settings": {
+          "section_height": "medio"
+        }
+      },
+      "1524417880511": {
+        "type": "contenuto personalizzato",
+        "blocks": {
+          "1524417880511-0": {
+            "type": "testo",
+            "settings": {
+              "title": "Parla del tuo marchio",
+              "text": "<p>Usa questo testo per condividere le informazioni sul tuo marchio con i tuoi clienti. Descrivi un prodotto, condividi annunci o dai il benvenuto ai clienti nel tuo negozio.</p>",
+              "width": "50%",
+              "alignment": "centro",
+              "align_text": "sinistra"
+            }
+          },
+          "1524417880511-1": {
+            "type": "Immagine",
+            "settings": {
+              "image": "",
+              "width": "50%",
+              "height_per": "100",
+              "img_align": "sinistra"
+            }
+          }
+        },
+        "block_order": {
+          "0": "1524417880511-0",
+          "1": "1524417880511-1"
+        },
+        "settings": {
+          "title": "Contenuto personalizzato",
+          "content_bg_type": "colore",
+          "background_image12": ""
+        }
+      },
+      "map-contact": {
+        "type": "contatto con la mappa",
+        "settings": {
+          "imagelogo": "",
+          "desktop_logo_size": "30%",
+          "address": "<p>123 Falso St.<br> Toronto, Canada</p><p> Dal lunedì al venerdì, dalle 10:00 alle 21:00<br> Sabato, 11:00 - 21:00<br> Domenica, dalle 11:00 alle 17:00</p>",
+          "map_address": "80 Spadina Ave, Toronto",
+          "button_text": "Ottenere indicazioni",
+          "api_key": "",
+          "background_image": "",
+          "background_image_position": "centro centro"
+        }
+      },
+      "1536574079388": {
+        "type": "divisore",
+        "settings": {
+          "divider_option": "confine",
+          "heading_divider": "pieno",
+          "space_two_element": "20"
+        }
+      }
+    },
+    "content_for_index": {
+      "0": "1522671161106",
+      "1": "1522671213521",
+      "2": "1522671286117",
+      "3": "1522671482965",
+      "4": "1522671309651",
+      "5": "1522671586612",
+      "6": "1522671638827",
+      "7": "1522671769410",
+      "8": "1522671815227",
+      "9": "1522671853847",
+      "10": "1524417880511",
+      "11": "1536574079388"
+    }
+  },
+  "presets": {
+    "Jupiter": {
+      "product_key": "",
+      "ano_color_bg": "#ededed",
+      "color_topheader-text": "# 000000",
+      "tophead_text_color_hover": "# 4a4a4a",
+      "color_header": "#ffffff",
+      "head_text_color": "# 0f0f0f",
+      "color_body_bg": "#F F F",
+      "color_body_text": "# 000000",
+      "color_text": "# 3d4246",
+      "megamenu_color_text": "# 08aa00",
+      "color_product_title": "# 494343",
+      "color_price_text": "# 3a4247",
+      "color_sale_text": "# 00ba1d",
+      "color_borders": "#ebebeb",
+      "color_button": "# 08aa00",
+      "color_button_text": "#ffffff",
+      "sp_button": "# 0dbd21",
+      "sp_button_txt": "#ffffff",
+      "color_small_button": "#F F F",
+      "color_small_button_text": "# 3d4246",
+      "color_text_field": "#F F F",
+      "color_text_field_text": "# 000",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "# 5c5c5c",
+      "background_color": "#dcdcdc",
+      "custom_text_color": "# 000000",
+      "discount_bg_color": "#ffffff",
+      "discount_normal_text_color": "# 000000",
+      "discount_bold_text_color": "# 00ba1d",
+      "discount_btn_color": "# 00ba1d",
+      "discount_btn_txt_color": "#ffffff",
+      "hover_color": "# 000",
+      "sale_button_option_one_color": "# 00ba1d",
+      "sale_button_option__text_one_color": "#ffffff",
+      "related_popup_heading_font_color": "# 0dbd21",
+      "delivery_text_color": "# 000000",
+      "badges_color": "# 000000",
+      "logo_icon": "fa-flag",
+      "icon_side": "sinistra",
+      "logo_font_style": "Google_Poppins_400_sans",
+      "logo_font_weight": "grassetto",
+      "logo_font_trans": "maiuscolo",
+      "menu_font_style": "Google_Poppins_400_sans",
+      "menu_font_weight": "grassetto",
+      "menu_font_trans": "maiuscolo",
+      "strip_font_style": "Google_Poppins_400_sans",
+      "strip_font_weight": "grassetto",
+      "strip_font_trans": "maiuscolo",
+      "type_header_family": "Poppins",
+      "heading_weight": "600",
+      "heading_trans": "maiuscolo",
+      "subhead_font": "Poppins",
+      "subhead_weight": "normale",
+      "subhead_font_trans": "nessuna",
+      "type_title_family": "Poppins",
+      "title_weight": "600",
+      "title_trans": "maiuscolo",
+      "title_position": "centro",
+      "type_base_family": "Poppins",
+      "imgsldover_title": "Poppins",
+      "imgsldover_weight": "600",
+      "imgsldover_trans": "maiuscolo",
+      "imgsldover_sub_title": "Poppins",
+      "imgsldover_sub_weight": "400",
+      "imgsldover_sub_trans": "maiuscolo",
+      "timer_font_family": "Poppins",
+      "timer_sub_font_family": "Poppins",
+      "tim_font_family": "Poppins",
+      "tim_lbl_family": "Poppins",
+      "delivery_font_family": "Poppins",
+      "favicon": "",
+      "currency_format": "money_format",
+      "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+      "discount_popup_time": "exit_popup",
+      "discount_icon": "",
+      "discount_popup_title": "20% DI SCONTO",
+      "discount_popup_description1": "Iscriviti alla nostra newsletter per uno sconto del 10% aggiuntivo sul tuo primo ordine!",
+      "discount_popup_link_text": "CHIUDI QUESTA PAGINA",
+      "discount_popup_submit_text": "<span>Grazie !</span>",
+      "notification_popup_time": "10000",
+      "popup_randomly_collection": "homepage",
+      "buttom_message": "Qualcuno ha acquistato un file",
+      "mailchimp_link": "",
+      "klaviyo_link": "",
+      "sale_button_option": "sale_button_option_one",
+      "search_result": "only_product",
+      "mobile_grid_1": "on_mobile_set_row_two",
+      "btn_text": "Mostra tutto",
+      "enable_timer_stg_on": "enable_timer_stg_on",
+      "enable_timer_stg": "enable_timer_custom_cookies",
+      "timer_cookies_set_type": "timer_cookies_set_diff",
+      "enable_inventory_stock_number": "enable_stock_number_random",
+      "enable_timer_reset_every_day": "10:00:00",
+      "share_image": "",
+      "social_title": "Seguici",
+      "social_twitter_link": "#",
+      "social_facebook_link": "#",
+      "social_pinterest_link": "#",
+      "social_instagram_link": "#",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "#",
+      "social_vimeo_link": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "sinistra",
+      "checkout_logo_size": "medio",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#F F F",
+      "checkout_input_background_color_mode": "bianca",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "# 1990c6",
+      "checkout_button_color": "# 1990c6",
+      "checkout_error_color": "# ff6d6d",
+      "heading_font_style": "Poppins",
+      "heading_font_weight": "accendino",
+      "heading_font_trans": "nessuna",
+      "text_font_style": "Poppins",
+      "cap_font_weight": "grassetto",
+      "timer_top_message_value_before": "Solo",
+      "timer_top_message_value_after": "SINISTRA",
+      "discount_border_color": "# 000000",
+      "newsletter_header": "# 000000",
+      "newsletter_subheading": "# 000000",
+      "related_popup_text_font_color": "# 000000",
+      "r_continue_shoping_color": "#ffffff",
+      "r_view_cart_color": "# 6c756c",
+      "r_checkout_color": "# 002500",
+      "type_title_base_size_1": "26",
+      "SO_heading_font_style": "Poppins",
+      "SO_sub_heading_font_style": "Poppins",
+      "mega_menu_1": "falso",
+      "mega_menu_2": "falso",
+      "mega_menu_3": "falso",
+      "mega_menu_4": "falso",
+      "mega_menu_5": "falso",
+      "related_popup_heading_font_family": "Arial",
+      "related_popup_heading_font_size": "30",
+      "enable_related_upsell": "vero",
+      "related_popup_text_font_family": "Ek Mukta",
+      "related_popup_text_font_size": "20",
+      "default_currency": "CAD",
+      "dil_font_family": "Montserrat",
+      "head_color_text": "#ffffff",
+      "product_family": "Google_Work + Sans_400_sans",
+      "type_header_base_size": "26px",
+      "type_base_size": "16px",
+      "sections": {
+        "header": {
+          "type": "intestazione",
+          "settings": {
+            "align_logo": "centro",
+            "logo": "shopify: //shop_images/booster_1.png",
+            "desktop_logo_size": "70%",
+            "logo_mobile": "shopify: //shop_images/booster_1.png",
+            "mobile_logo_size": "50%",
+            "main_linklist": "menu principale",
+            "shopping_icon": "fa-carrello",
+            "header_strip_text_contact": "044-4444-4444",
+            "header_strip_text_email": "MY@SHOP.MYSHOP",
+            "header_strip_text_link_name": "spedizione gratuita questa settimana Per ordini superiori a 75 $"
+          }
+        },
+        "footer": {
+          "type": "piè di pagina",
+          "blocks": {
+            "1520514625558": {
+              "type": "testo",
+              "settings": {
+                "logo": "shopify: //shop_images/booster_1.png",
+                "desktop_logo_size": "50%",
+                "title": "",
+                "content": "<p>Usa questo testo per condividere le informazioni sul tuo marchio con i tuoi clienti. Descrivi un prodotto, condividi annunci o dai il benvenuto ai clienti nel tuo negozio.</p>"
+              }
+            },
+            "1521520287493": {
+              "type": "link_list",
+              "settings": {
+                "menu": "menu principale"
+              }
+            },
+            "1520514274895": {
+              "type": "link_list",
+              "settings": {
+                "menu": "piè di pagina"
+              }
+            },
+            "1521800689906": {
+              "type": "customer_shopify",
+              "settings": {}
+            }
+          },
+          "block_order": {
+            "0": "1520514625558",
+            "1": "1521520287493",
+            "2": "1520514274895",
+            "3": "1521800689906"
+          },
+          "settings": {
+            "shop_name": ""
+          }
+        },
+        "product-template": {
+          "type": "modello-prodotto",
+          "settings": {
+            "buy_it_now_action": "direct_to_checkout",
+            "variant_swacth": "Due",
+            "swatch_option": "without_background",
+            "color_style": "forma rotonda",
+            "visitor_counter_number": "1-15",
+            "delivery_time_number": "14-30",
+            "product_description": "under_the_timer",
+            "sticky_button": "show_progress_bar",
+            "enable_trust_badges_image": "shopify: //shop_images/Booster-badges.png"
+          }
+        },
+        "password-header": {
+          "type": "intestazione della password",
+          "settings": {
+            "logo": "",
+            "logo_max_width": "100",
+            "header": "Prossimamente"
+          }
+        },
+        "password-content": {
+          "type": "contenuto della password",
+          "settings": {
+            "newsletter_form_heading": "Sii il primo a sapere quando lanciamo.",
+            "newsletter_placeholder": "Indirizzo e-mail",
+            "newsletter_button_text": "Avvisami"
+          }
+        },
+        "password-footer": {
+          "type": "piè di pagina della password",
+          "settings": {
+            "social_message": "Diffondere la parola"
+          }
+        },
+        "releted_upsell_popup": {
+          "type": "releted_upsell_popup",
+          "blocks": {
+            "1523081370482": {
+              "type": "pro_to_pro_upsell",
+              "settings": {
+                "upsell_related_product": "cydney-plaid",
+                "upsell_suggested_product": "zaino di livello derby"
+              }
+            }
+          },
+          "block_order": {
+            "0": "1523081370482"
+          },
+          "settings": {}
+        },
+        "collection-template": {
+          "type": "modello di raccolta",
+          "settings": {}
+        },
+        "related-product": {
+          "type": "prodotti correlati",
+          "settings": {}
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_timer_color": "# f30909",
+            "cart_left_image": "shopify: //shop_images/Booster-badges.png",
+            "cart_right_image": "shopify: //shop_images/Booster-badges_fdb54f46-a7ce-4299-b3eb-afecd0e53813.png"
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+            "display_type": "tutti",
+            "sort": "alfabetico",
+            "grid": "3",
+            "btn_text": "Mostra tutto"
+          }
+        },
+        "article-template": {
+          "type": "modello di articolo",
+          "settings": {
+            "heading_title": "Dettaglio notizie",
+            "image": "shopify: //shop_images/woman-in-black-trench-in-winter-woods.jpg"
+          }
+        },
+        "blog-template": {
+          "type": "modello di blog",
+          "settings": {
+            "image": "shopify: //shop_images/waffles-and-fruit-breakfast.jpg",
+            "layout": "griglia"
+          }
+        },
+        "contact-page": {
+          "type": "pagina di contatto",
+          "settings": {
+            "image": "shopify: //shop_images/waffles-and-fruit-breakfast.jpg"
+          }
+        },
+        "map": {
+          "type": "carta geografica",
+          "settings": {
+            "imagelogo": "",
+            "desktop_logo_size": "30%",
+            "address": "<p>123 Falso St.<br> Toronto, Canada</p><p> Dal lunedì al venerdì, dalle 10:00 alle 21:00<br> Sabato, 11:00 - 21:00<br> Domenica, dalle 11:00 alle 17:00</p>",
+            "map_address": "80 Spadina Ave, Toronto",
+            "button_text": "Ottenere indicazioni",
+            "api_key": "",
+            "background_image": "",
+            "background_image_position": "centro centro"
+          }
+        },
+        "1522671161106": {
+          "type": "Presentazione",
+          "blocks": {
+            "1522671161106-0": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "superiore",
+                "title": "Diapositiva dell'immagine",
+                "subheading": "Racconta la storia del tuo marchio attraverso video e immagini",
+                "button_label": "",
+                "link": ""
+              }
+            },
+            "1522671161106-1": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "superiore",
+                "title": "Diapositiva dell'immagine",
+                "subheading": "Racconta la storia del tuo marchio attraverso video e immagini",
+                "button_label": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671161106-0",
+            "1": "1522671161106-1"
+          },
+          "settings": {
+            "autoplay_speed": "5000",
+            "slideshow_height": "piccolo",
+            "heading_divider": "nessuna"
+          }
+        },
+        "1522671213521": {
+          "type": "rich text",
+          "settings": {
+            "section_title": "Parla del tuo marchio",
+            "text": "<p>Usa questo testo per condividere le informazioni sul tuo marchio con i tuoi clienti. Descrivi un prodotto, condividi annunci o dai il benvenuto ai clienti nel tuo negozio.</p>",
+            "text_size": "medio"
+          }
+        },
+        "1522671286117": {
+          "type": "collezione",
+          "settings": {
+            "title": "",
+            "collection": "",
+            "mobile_grid": "on_mobile_set_row_two"
+          }
+        },
+        "1522671309651": {
+          "type": "eroe",
+          "settings": {
+            "image": "",
+            "alignment": "centro",
+            "text_alignment": "centro",
+            "title": "Immagine con testo in sovrimpressione",
+            "heading_divider": "nessuna",
+            "text": "<p>Usa il testo in sovrimpressione per offrire ai tuoi clienti informazioni sul tuo marchio. Seleziona immagini e testo che si riferiscono al tuo stile e alla tua storia.</p>",
+            "hero_size": "medio",
+            "text_size": "medio",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "piccolo"
+          }
+        },
+        "1522671482965": {
+          "type": "riga delle caratteristiche",
+          "blocks": {
+            "1522671482965-0": {
+              "type": "image_with_text_1",
+              "settings": {
+                "image": "",
+                "layout": "sinistra",
+                "text_alignment": "sinistra",
+                "title": "Immagine con testo",
+                "text": "<p>Accoppia un testo di grandi dimensioni con un&#39;immagine per concentrarti sul prodotto, la raccolta o il post del blog scelto. Aggiungi dettagli su disponibilità, stile o fornisci anche una recensione.</p>",
+                "button_label": "",
+                "button_link": ""
+              }
+            },
+            "1522671482965-1": {
+              "type": "image_with_text_1",
+              "settings": {
+                "image": "",
+                "layout": "giusto",
+                "text_alignment": "sinistra",
+                "title": "Immagine con testo",
+                "text": "<p>Accoppia un testo di grandi dimensioni con un&#39;immagine per concentrarti sul prodotto, la raccolta o il post del blog scelto. Aggiungi dettagli su disponibilità, stile o fornisci anche una recensione.</p>",
+                "button_label": "",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671482965-0",
+            "1": "1522671482965-1"
+          },
+          "settings": {
+            "layout": "pieno"
+          }
+        },
+        "1522671586612": {
+          "type": "raccolta-elenco",
+          "blocks": {
+            "1522671586612-0": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "1522671586612-1": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "1522671586612-2": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "1522671586612-3": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671586612-0",
+            "1": "1522671586612-1",
+            "2": "1522671586612-2",
+            "3": "1522671586612-3"
+          },
+          "settings": {
+            "layout": "full_without_spacing",
+            "title": "Elenco delle collezioni"
+          }
+        },
+        "1522671638827": {
+          "type": "citazioni",
+          "blocks": {
+            "1522671638827-0": {
+              "type": "citazione",
+              "settings": {
+                "t_image": "",
+                "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+                "author": "Nome dell'autore"
+              }
+            },
+            "1522671638827-1": {
+              "type": "citazione",
+              "settings": {
+                "t_image": "",
+                "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+                "author": "Nome dell'autore"
+              }
+            },
+            "1522671638827-2": {
+              "type": "citazione",
+              "settings": {
+                "t_image": "",
+                "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+                "author": "Nome dell'autore"
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671638827-0",
+            "1": "1522671638827-1",
+            "2": "1522671638827-2"
+          },
+          "settings": {
+            "title": "Testimonianze"
+          }
+        },
+        "1522671769410": {
+          "type": "newsletter",
+          "settings": {
+            "section_title": "Iscriviti alla nostra Newsletter",
+            "subheading": "Una breve frase che descrive ciò che qualcuno riceverà iscrivendosi",
+            "newsletter_section_text_align": "centro",
+            "image": ""
+          }
+        },
+        "1522671815227": {
+          "type": "Instagram",
+          "settings": {
+            "instagram_client_id": "",
+            "instagram_title": "Instagram"
+          }
+        },
+        "1522671853847": {
+          "type": "barra delle immagini",
+          "blocks": {
+            "1522671853847-0": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "centro",
+                "link": "",
+                "cta_label": ""
+              }
+            },
+            "1522671853847-1": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "centro",
+                "link": "",
+                "cta_label": ""
+              }
+            },
+            "1522671853847-2": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "centro",
+                "link": "",
+                "cta_label": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671853847-0",
+            "1": "1522671853847-1",
+            "2": "1522671853847-2"
+          },
+          "settings": {
+            "section_height": "medio"
+          }
+        }
+      },
+      "content_for_index": {
+        "0": "1522671161106",
+        "1": "1522671213521",
+        "2": "1522671286117",
+        "3": "1522671482965",
+        "4": "1522671309651",
+        "5": "1522671586612",
+        "6": "1522671638827",
+        "7": "1522671769410",
+        "8": "1522671815227",
+        "9": "1522671853847"
+      }
+    },
+    "Mercury": {
+      "product_key": "",
+      "ano_color_bg": "# fea244",
+      "color_topheader-text": "#ffffff",
+      "tophead_text_color_hover": "# 4a4a4a",
+      "color_header": "#ffffff",
+      "head_text_color": "# 212121",
+      "color_body_bg": "#ffffff",
+      "color_body_text": "# 000000",
+      "color_text": "# 3d4246",
+      "megamenu_color_text": "# fea244",
+      "color_product_title": "# 494343",
+      "color_price_text": "# 3a4247",
+      "color_sale_text": "# fea244",
+      "color_borders": "#ebebeb",
+      "color_button": "# fea244",
+      "color_button_text": "#ffffff",
+      "sp_button": "# fea244",
+      "sp_button_txt": "#ffffff",
+      "color_small_button": "#F F F",
+      "color_small_button_text": "# 3d4246",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "# 000",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "# 5c5c5c",
+      "background_color": "#dcdcdc",
+      "custom_text_color": "# 000000",
+      "discount_bg_color": "#ffffff",
+      "discount_normal_text_color": "# 000000",
+      "discount_bold_text_color": "# fea244",
+      "discount_btn_color": "# fea244",
+      "discount_btn_txt_color": "#ffffff",
+      "hover_color": "# 000",
+      "sale_button_option_one_color": "# fea244",
+      "sale_button_option__text_one_color": "#ffffff",
+      "related_popup_heading_font_color": "# fea244",
+      "delivery_text_color": "# 000000",
+      "badges_color": "# 000000",
+      "logo_icon": "fa-fire",
+      "icon_side": "sinistra",
+      "logo_font_style": "Google_Ubuntu_400_sans",
+      "logo_font_weight": "grassetto",
+      "logo_font_trans": "maiuscolo",
+      "menu_font_style": "Google_Ubuntu_400_sans",
+      "menu_font_weight": "grassetto",
+      "menu_font_trans": "maiuscolo",
+      "strip_font_style": "Google_Ubuntu_400_sans",
+      "strip_font_weight": "grassetto",
+      "strip_font_trans": "maiuscolo",
+      "type_header_family": "Google_Ubuntu_400_sans",
+      "heading_weight": "600",
+      "heading_trans": "maiuscolo",
+      "subhead_font": "Google_Ubuntu_400_sans",
+      "subhead_weight": "normale",
+      "subhead_font_trans": "nessuna",
+      "type_title_family": "Google_Ubuntu_400_sans",
+      "title_weight": "600",
+      "title_trans": "maiuscolo",
+      "title_position": "centro",
+      "type_base_family": "Poppins",
+      "imgsldover_title": "Google_Ubuntu_400_sans",
+      "imgsldover_weight": "600",
+      "imgsldover_trans": "maiuscolo",
+      "imgsldover_sub_title": "Google_Ubuntu_400_sans",
+      "imgsldover_sub_weight": "400",
+      "imgsldover_sub_trans": "maiuscolo",
+      "timer_font_family": "Poppins",
+      "timer_sub_font_family": "Poppins",
+      "tim_font_family": "Poppins",
+      "tim_lbl_family": "Poppins",
+      "delivery_font_family": "Poppins",
+      "favicon": "",
+      "currency_format": "money_format",
+      "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+      "discount_popup_time": "0.30",
+      "discount_icon": "",
+      "discount_popup_title": "20% DI SCONTO",
+      "discount_popup_description1": "Iscriviti alla nostra newsletter per uno sconto del 10% aggiuntivo sul tuo primo ordine!",
+      "discount_popup_link_text": "CHIUDI QUESTA PAGINA",
+      "discount_popup_submit_text": "<span>Grazie !</span>",
+      "notification_popup_time": "10000",
+      "popup_randomly_collection": "homepage",
+      "buttom_message": "Qualcuno ha acquistato un file",
+      "mailchimp_link": "",
+      "klaviyo_link": "",
+      "sale_button_option": "sale_button_option_one",
+      "search_result": "only_product",
+      "mobile_grid_1": "on_mobile_set_row_two",
+      "btn_text": "Mostra tutto",
+      "enable_timer_stg_on": "enable_timer_stg_on",
+      "enable_timer_stg": "enable_timer_custom",
+      "timer_cookies_set_type": "timer_cookies_set_common",
+      "enable_inventory_stock_number": "enable_stock_number_random",
+      "enable_timer_reset_every_day": "10:00:00",
+      "share_image": "",
+      "social_title": "Seguici",
+      "social_twitter_link": "#",
+      "social_facebook_link": "#",
+      "social_pinterest_link": "#",
+      "social_instagram_link": "#",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "#",
+      "social_vimeo_link": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "sinistra",
+      "checkout_logo_size": "medio",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#F F F",
+      "checkout_input_background_color_mode": "bianca",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "# 1990c6",
+      "checkout_button_color": "# 1990c6",
+      "checkout_error_color": "# ff6d6d",
+      "heading_font_style": "Poppins",
+      "heading_font_weight": "accendino",
+      "heading_font_trans": "nessuna",
+      "text_font_style": "Poppins",
+      "cap_font_weight": "grassetto",
+      "timer_top_message_value_before": "Solo",
+      "timer_top_message_value_after": "SINISTRA",
+      "discount_border_color": "# 000000",
+      "newsletter_header": "# 000000",
+      "newsletter_subheading": "# 000000",
+      "related_popup_text_font_color": "# 000000",
+      "r_continue_shoping_color": "#ffffff",
+      "r_view_cart_color": "# 6c756c",
+      "r_checkout_color": "# 002500",
+      "type_title_base_size_1": "26",
+      "SO_heading_font_style": "Poppins",
+      "SO_sub_heading_font_style": "Poppins",
+      "mega_menu_1": "falso",
+      "mega_menu_2": "falso",
+      "mega_menu_3": "falso",
+      "mega_menu_4": "falso",
+      "mega_menu_5": "falso",
+      "related_popup_heading_font_family": "Arial",
+      "related_popup_heading_font_size": "30",
+      "enable_related_upsell": "vero",
+      "related_popup_text_font_family": "Ek Mukta",
+      "related_popup_text_font_size": "20",
+      "default_currency": "CAD",
+      "dil_font_family": "Montserrat",
+      "head_color_text": "#ffffff",
+      "product_family": "Google_Work + Sans_400_sans",
+      "type_header_base_size": "26px",
+      "type_base_size": "16px",
+      "sections": {
+        "header": {
+          "type": "intestazione",
+          "settings": {
+            "align_logo": "centro",
+            "logo": "",
+            "desktop_logo_size": "70%",
+            "logo_mobile": "",
+            "mobile_logo_size": "50%",
+            "main_linklist": "menu principale",
+            "shopping_icon": "fa-carrello",
+            "header_strip_text_contact": "044-4444-4444",
+            "header_strip_text_email": "MY@SHOP.MYSHOP",
+            "header_strip_text_link_name": "spedizione gratuita questa settimana Per ordini superiori a 75 $"
+          }
+        },
+        "footer": {
+          "type": "piè di pagina",
+          "blocks": {
+            "1520514625558": {
+              "type": "testo",
+              "settings": {
+                "logo": "shopify: //shop_images/booster_1.png",
+                "desktop_logo_size": "50%",
+                "title": "",
+                "content": "<p>Usa questo testo per condividere le informazioni sul tuo marchio con i tuoi clienti. Descrivi un prodotto, condividi annunci o dai il benvenuto ai clienti nel tuo negozio.</p>"
+              }
+            },
+            "1521520287493": {
+              "type": "link_list",
+              "settings": {
+                "menu": "menu principale"
+              }
+            },
+            "1520514274895": {
+              "type": "link_list",
+              "settings": {
+                "menu": "piè di pagina"
+              }
+            },
+            "1521800689906": {
+              "type": "customer_shopify",
+              "settings": {}
+            }
+          },
+          "block_order": {
+            "0": "1520514625558",
+            "1": "1521520287493",
+            "2": "1520514274895",
+            "3": "1521800689906"
+          },
+          "settings": {
+            "shop_name": ""
+          }
+        },
+        "product-template": {
+          "type": "modello-prodotto",
+          "settings": {
+            "buy_it_now_action": "thanks_you_message",
+            "variant_swacth": "Due",
+            "swatch_option": "without_background",
+            "color_style": "forma rotonda",
+            "visitor_counter_number": "1-15",
+            "delivery_time_number": "14-30",
+            "product_description": "under_the_timer",
+            "sticky_button": "show_progress_bar",
+            "enable_trust_badges_image": "shopify: //shop_images/Booster-badges.png"
+          }
+        },
+        "password-header": {
+          "type": "intestazione della password",
+          "settings": {
+            "logo": "",
+            "logo_max_width": "100",
+            "header": "Prossimamente"
+          }
+        },
+        "password-content": {
+          "type": "contenuto della password",
+          "settings": {
+            "newsletter_form_heading": "Sii il primo a sapere quando lanciamo.",
+            "newsletter_placeholder": "Indirizzo e-mail",
+            "newsletter_button_text": "Avvisami"
+          }
+        },
+        "password-footer": {
+          "type": "piè di pagina della password",
+          "settings": {
+            "social_message": "Diffondere la parola"
+          }
+        },
+        "releted_upsell_popup": {
+          "type": "releted_upsell_popup",
+          "blocks": {
+            "1523004891335": {
+              "type": "pro_to_pro_upsell",
+              "settings": {
+                "upsell_related_product": "cydney-plaid",
+                "upsell_suggested_product": "Cappello a 5 pannelli"
+              }
+            }
+          },
+          "block_order": {
+            "0": "1523004891335"
+          },
+          "settings": {}
+        },
+        "collection-template": {
+          "type": "modello di raccolta",
+          "settings": {}
+        },
+        "related-product": {
+          "type": "prodotti correlati",
+          "settings": {}
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_timer_color": "# f30909",
+            "cart_left_image": "shopify: //shop_images/Booster-badges.png",
+            "cart_right_image": "shopify: //shop_images/Booster-badges_fdb54f46-a7ce-4299-b3eb-afecd0e53813.png"
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+            "display_type": "tutti",
+            "sort": "alfabetico",
+            "grid": "3",
+            "btn_text": "Mostra tutto"
+          }
+        },
+        "article-template": {
+          "type": "modello di articolo",
+          "settings": {
+            "heading_title": "Dettaglio notizie",
+            "image": "shopify: //shop_images/woman-in-black-trench-in-winter-woods.jpg"
+          }
+        },
+        "blog-template": {
+          "type": "modello di blog",
+          "settings": {
+            "image": "shopify: //shop_images/waffles-and-fruit-breakfast.jpg",
+            "layout": "griglia"
+          }
+        },
+        "contact-page": {
+          "type": "pagina di contatto",
+          "settings": {
+            "image": "shopify: //shop_images/waffles-and-fruit-breakfast.jpg"
+          }
+        },
+        "map": {
+          "type": "carta geografica",
+          "settings": {
+            "imagelogo": "",
+            "desktop_logo_size": "30%",
+            "address": "<p>123 Falso St.<br> Toronto, Canada</p><p> Dal lunedì al venerdì, dalle 10:00 alle 21:00<br> Sabato, 11:00 - 21:00<br> Domenica, dalle 11:00 alle 17:00</p>",
+            "map_address": "80 Spadina Ave, Toronto",
+            "button_text": "Ottenere indicazioni",
+            "api_key": "",
+            "background_image": "",
+            "background_image_position": "centro centro"
+          }
+        },
+        "1522671161106": {
+          "type": "Presentazione",
+          "blocks": {
+            "1522671161106-0": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "superiore",
+                "title": "Diapositiva dell'immagine",
+                "subheading": "Racconta la storia del tuo marchio attraverso video e immagini",
+                "button_label": "",
+                "link": ""
+              }
+            },
+            "1522671161106-1": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "superiore",
+                "title": "Diapositiva dell'immagine",
+                "subheading": "Racconta la storia del tuo marchio attraverso video e immagini",
+                "button_label": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671161106-0",
+            "1": "1522671161106-1"
+          },
+          "settings": {
+            "autoplay_speed": "5000",
+            "slideshow_height": "piccolo",
+            "heading_divider": "nessuna"
+          }
+        },
+        "1522671213521": {
+          "type": "rich text",
+          "settings": {
+            "section_title": "Parla del tuo marchio",
+            "text": "<p>Usa questo testo per condividere le informazioni sul tuo marchio con i tuoi clienti. Descrivi un prodotto, condividi annunci o dai il benvenuto ai clienti nel tuo negozio.</p>",
+            "text_size": "medio"
+          }
+        },
+        "1522671286117": {
+          "type": "collezione",
+          "settings": {
+            "title": "Collezione in primo piano",
+            "collection": "",
+            "mobile_grid": "on_mobile_set_row_two"
+          }
+        },
+        "1522671309651": {
+          "type": "eroe",
+          "settings": {
+            "image": "",
+            "alignment": "centro",
+            "text_alignment": "centro",
+            "title": "Immagine con testo in sovrimpressione",
+            "heading_divider": "nessuna",
+            "text": "<p>Usa il testo in sovrimpressione per offrire ai tuoi clienti informazioni sul tuo marchio. Seleziona immagini e testo che si riferiscono al tuo stile e alla tua storia.</p>",
+            "hero_size": "medio",
+            "text_size": "medio",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "piccolo"
+          }
+        },
+        "1522671482965": {
+          "type": "riga delle caratteristiche",
+          "blocks": {
+            "1522671482965-0": {
+              "type": "image_with_text_1",
+              "settings": {
+                "image": "",
+                "layout": "sinistra",
+                "text_alignment": "sinistra",
+                "title": "Immagine con testo",
+                "text": "<p>Accoppia un testo di grandi dimensioni con un&#39;immagine per concentrarti sul prodotto, la raccolta o il post del blog scelto. Aggiungi dettagli su disponibilità, stile o fornisci anche una recensione.</p>",
+                "button_label": "",
+                "button_link": ""
+              }
+            },
+            "1522671482965-1": {
+              "type": "image_with_text_1",
+              "settings": {
+                "image": "",
+                "layout": "giusto",
+                "text_alignment": "sinistra",
+                "title": "Immagine con testo",
+                "text": "<p>Accoppia un testo di grandi dimensioni con un&#39;immagine per concentrarti sul prodotto, la raccolta o il post del blog scelto. Aggiungi dettagli su disponibilità, stile o fornisci anche una recensione.</p>",
+                "button_label": "",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671482965-0",
+            "1": "1522671482965-1"
+          },
+          "settings": {
+            "layout": "pieno"
+          }
+        },
+        "1522671586612": {
+          "type": "raccolta-elenco",
+          "blocks": {
+            "1522671586612-0": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "1522671586612-1": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "1522671586612-2": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "1522671586612-3": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671586612-0",
+            "1": "1522671586612-1",
+            "2": "1522671586612-2",
+            "3": "1522671586612-3"
+          },
+          "settings": {
+            "layout": "full_without_spacing",
+            "title": "Elenco delle collezioni"
+          }
+        },
+        "1522671638827": {
+          "type": "citazioni",
+          "blocks": {
+            "1522671638827-0": {
+              "type": "citazione",
+              "settings": {
+                "t_image": "",
+                "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+                "author": "Nome dell'autore"
+              }
+            },
+            "1522671638827-1": {
+              "type": "citazione",
+              "settings": {
+                "t_image": "",
+                "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+                "author": "Nome dell'autore"
+              }
+            },
+            "1522671638827-2": {
+              "type": "citazione",
+              "settings": {
+                "t_image": "",
+                "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+                "author": "Nome dell'autore"
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671638827-0",
+            "1": "1522671638827-1",
+            "2": "1522671638827-2"
+          },
+          "settings": {
+            "title": "Testimonianze"
+          }
+        },
+        "1522671769410": {
+          "type": "newsletter",
+          "settings": {
+            "section_title": "Iscriviti alla nostra Newsletter",
+            "subheading": "Una breve frase che descrive ciò che qualcuno riceverà iscrivendosi",
+            "newsletter_section_text_align": "centro",
+            "image": ""
+          }
+        },
+        "1522671815227": {
+          "type": "Instagram",
+          "settings": {
+            "instagram_client_id": "",
+            "instagram_title": "Instagram"
+          }
+        },
+        "1522671853847": {
+          "type": "barra delle immagini",
+          "blocks": {
+            "1522671853847-0": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "centro",
+                "link": "",
+                "cta_label": ""
+              }
+            },
+            "1522671853847-1": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "centro",
+                "link": "",
+                "cta_label": ""
+              }
+            },
+            "1522671853847-2": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "centro",
+                "link": "",
+                "cta_label": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671853847-0",
+            "1": "1522671853847-1",
+            "2": "1522671853847-2"
+          },
+          "settings": {
+            "section_height": "medio"
+          }
+        }
+      },
+      "content_for_index": {
+        "0": "1522671161106",
+        "1": "1522671213521",
+        "2": "1522671286117",
+        "3": "1522671309651",
+        "4": "1522671482965",
+        "5": "1522671586612",
+        "6": "1522671638827",
+        "7": "1522671769410",
+        "8": "1522671815227",
+        "9": "1522671853847"
+      }
+    },
+    "Venus": {
+      "product_key": "",
+      "ano_color_bg": "# f042a8",
+      "color_topheader-text": "#ffffff",
+      "tophead_text_color_hover": "# 4a4a4a",
+      "color_header": "#ffffff",
+      "head_text_color": "# 212121",
+      "color_body_bg": "#ffffff",
+      "color_body_text": "# 000000",
+      "color_text": "# 3d4246",
+      "megamenu_color_text": "# f042a8",
+      "color_product_title": "# 494343",
+      "color_price_text": "# 3a4247",
+      "color_sale_text": "# f042a8",
+      "color_borders": "#ebebeb",
+      "color_button": "# f042a8",
+      "color_button_text": "#ffffff",
+      "sp_button": "# f042a8",
+      "sp_button_txt": "#ffffff",
+      "color_small_button": "#F F F",
+      "color_small_button_text": "# 3d4246",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "# 000",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "# 5c5c5c",
+      "background_color": "#dcdcdc",
+      "custom_text_color": "# 000000",
+      "discount_bg_color": "#ffffff",
+      "discount_normal_text_color": "# 000000",
+      "discount_bold_text_color": "# f042a8",
+      "discount_btn_color": "# f042a8",
+      "discount_btn_txt_color": "#ffffff",
+      "hover_color": "# 000",
+      "sale_button_option_one_color": "# f042a8",
+      "sale_button_option__text_one_color": "#ffffff",
+      "related_popup_heading_font_color": "# f042a8",
+      "delivery_text_color": "# 000000",
+      "badges_color": "# 000000",
+      "logo_icon": "fa-cuore",
+      "icon_side": "sinistra",
+      "logo_font_style": "Google_Ubuntu_400_sans",
+      "logo_font_weight": "grassetto",
+      "logo_font_trans": "maiuscolo",
+      "menu_font_style": "Google_Ubuntu_400_sans",
+      "menu_font_weight": "grassetto",
+      "menu_font_trans": "maiuscolo",
+      "strip_font_style": "Google_Ubuntu_400_sans",
+      "strip_font_weight": "grassetto",
+      "strip_font_trans": "maiuscolo",
+      "type_header_family": "Google_Ubuntu_400_sans",
+      "heading_weight": "600",
+      "heading_trans": "maiuscolo",
+      "subhead_font": "Poppins",
+      "subhead_weight": "normale",
+      "subhead_font_trans": "nessuna",
+      "type_title_family": "Google_Ubuntu_400_sans",
+      "title_weight": "600",
+      "title_trans": "maiuscolo",
+      "title_position": "centro",
+      "type_base_family": "Poppins",
+      "imgsldover_title": "Google_Ubuntu_400_sans",
+      "imgsldover_weight": "600",
+      "imgsldover_trans": "maiuscolo",
+      "imgsldover_sub_title": "Google_Ubuntu_400_sans",
+      "imgsldover_sub_weight": "400",
+      "imgsldover_sub_trans": "maiuscolo",
+      "timer_font_family": "Poppins",
+      "timer_sub_font_family": "Poppins",
+      "tim_font_family": "Poppins",
+      "tim_lbl_family": "Poppins",
+      "delivery_font_family": "Poppins",
+      "favicon": "",
+      "currency_format": "money_format",
+      "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+      "discount_popup_time": "0.30",
+      "discount_icon": "",
+      "discount_popup_title": "20% DI SCONTO",
+      "discount_popup_description1": "Iscriviti alla nostra newsletter per uno sconto del 10% aggiuntivo sul tuo primo ordine!",
+      "discount_popup_link_text": "CHIUDI QUESTA PAGINA",
+      "discount_popup_submit_text": "<span>Grazie !</span>",
+      "notification_popup_time": "10000",
+      "popup_randomly_collection": "homepage",
+      "buttom_message": "Qualcuno ha acquistato un file",
+      "mailchimp_link": "",
+      "klaviyo_link": "",
+      "sale_button_option": "sale_button_option_one",
+      "search_result": "only_product",
+      "mobile_grid_1": "on_mobile_set_row_two",
+      "btn_text": "Mostra tutto",
+      "enable_timer_stg_on": "enable_timer_stg_on",
+      "enable_timer_stg": "enable_timer_custom",
+      "timer_cookies_set_type": "timer_cookies_set_common",
+      "enable_inventory_stock_number": "enable_stock_number_random",
+      "enable_timer_reset_every_day": "10:00:00",
+      "share_image": "",
+      "social_title": "Seguici",
+      "social_twitter_link": "#",
+      "social_facebook_link": "#",
+      "social_pinterest_link": "#",
+      "social_instagram_link": "#",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "#",
+      "social_vimeo_link": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "sinistra",
+      "checkout_logo_size": "medio",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#F F F",
+      "checkout_input_background_color_mode": "bianca",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "# 1990c6",
+      "checkout_button_color": "# 1990c6",
+      "checkout_error_color": "# ff6d6d",
+      "heading_font_style": "Poppins",
+      "heading_font_weight": "accendino",
+      "heading_font_trans": "nessuna",
+      "text_font_style": "Poppins",
+      "cap_font_weight": "grassetto",
+      "timer_top_message_value_before": "Solo",
+      "timer_top_message_value_after": "SINISTRA",
+      "discount_border_color": "# 000000",
+      "newsletter_header": "# 000000",
+      "newsletter_subheading": "# 000000",
+      "related_popup_text_font_color": "# 000000",
+      "r_continue_shoping_color": "#ffffff",
+      "r_view_cart_color": "# 6c756c",
+      "r_checkout_color": "# 002500",
+      "type_title_base_size_1": "26",
+      "SO_heading_font_style": "Poppins",
+      "SO_sub_heading_font_style": "Poppins",
+      "mega_menu_1": "falso",
+      "mega_menu_2": "falso",
+      "mega_menu_3": "falso",
+      "mega_menu_4": "falso",
+      "mega_menu_5": "falso",
+      "related_popup_heading_font_family": "Arial",
+      "related_popup_heading_font_size": "30",
+      "enable_related_upsell": "vero",
+      "related_popup_text_font_family": "Ek Mukta",
+      "related_popup_text_font_size": "20",
+      "default_currency": "CAD",
+      "dil_font_family": "Montserrat",
+      "head_color_text": "#ffffff",
+      "product_family": "Google_Work + Sans_400_sans",
+      "type_header_base_size": "26px",
+      "type_base_size": "16px",
+      "sections": {
+        "header": {
+          "type": "intestazione",
+          "settings": {
+            "align_logo": "centro",
+            "logo": "",
+            "desktop_logo_size": "70%",
+            "logo_mobile": "",
+            "mobile_logo_size": "50%",
+            "main_linklist": "menu principale",
+            "shopping_icon": "fa-carrello",
+            "header_strip_text_contact": "044-4444-4444",
+            "header_strip_text_email": "MY@SHOP.MYSHOP",
+            "header_strip_text_link_name": "spedizione gratuita questa settimana Per ordini superiori a 75 $"
+          }
+        },
+        "footer": {
+          "type": "piè di pagina",
+          "blocks": {
+            "1520514625558": {
+              "type": "testo",
+              "settings": {
+                "logo": "shopify: //shop_images/booster_1.png",
+                "desktop_logo_size": "50%",
+                "title": "",
+                "content": "<p>Usa questo testo per condividere le informazioni sul tuo marchio con i tuoi clienti. Descrivi un prodotto, condividi annunci o dai il benvenuto ai clienti nel tuo negozio.</p>"
+              }
+            },
+            "1521520287493": {
+              "type": "link_list",
+              "settings": {
+                "menu": "menu principale"
+              }
+            },
+            "1520514274895": {
+              "type": "link_list",
+              "settings": {
+                "menu": "piè di pagina"
+              }
+            },
+            "1521800689906": {
+              "type": "customer_shopify",
+              "settings": {}
+            }
+          },
+          "block_order": {
+            "0": "1520514625558",
+            "1": "1521520287493",
+            "2": "1520514274895",
+            "3": "1521800689906"
+          },
+          "settings": {
+            "shop_name": ""
+          }
+        },
+        "product-template": {
+          "type": "modello-prodotto",
+          "settings": {
+            "buy_it_now_action": "direct_to_checkout",
+            "variant_swacth": "Due",
+            "swatch_option": "without_background",
+            "color_style": "forma rotonda",
+            "visitor_counter_number": "1-15",
+            "delivery_time_number": "14-30",
+            "product_description": "under_the_timer",
+            "sticky_button": "show_progress_bar",
+            "enable_trust_badges_image": "shopify: //shop_images/Booster-badges.png"
+          }
+        },
+        "password-header": {
+          "type": "intestazione della password",
+          "settings": {
+            "logo": "",
+            "logo_max_width": "100",
+            "header": "Prossimamente"
+          }
+        },
+        "password-content": {
+          "type": "contenuto della password",
+          "settings": {
+            "newsletter_form_heading": "Sii il primo a sapere quando lanciamo.",
+            "newsletter_placeholder": "Indirizzo e-mail",
+            "newsletter_button_text": "Avvisami"
+          }
+        },
+        "password-footer": {
+          "type": "piè di pagina della password",
+          "settings": {
+            "social_message": "Diffondere la parola"
+          }
+        },
+        "releted_upsell_popup": {
+          "type": "releted_upsell_popup",
+          "settings": {}
+        },
+        "collection-template": {
+          "type": "modello di raccolta",
+          "settings": {}
+        },
+        "related-product": {
+          "type": "prodotti correlati",
+          "settings": {}
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_timer_color": "# f30909",
+            "cart_left_image": "shopify: //shop_images/Booster-badges.png",
+            "cart_right_image": "shopify: //shop_images/Booster-badges_fdb54f46-a7ce-4299-b3eb-afecd0e53813.png"
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+            "display_type": "tutti",
+            "sort": "alfabetico",
+            "grid": "3",
+            "btn_text": "Mostra tutto"
+          }
+        },
+        "article-template": {
+          "type": "modello di articolo",
+          "settings": {
+            "heading_title": "Dettaglio notizie",
+            "image": "shopify: //shop_images/woman-in-black-trench-in-winter-woods.jpg"
+          }
+        },
+        "blog-template": {
+          "type": "modello di blog",
+          "settings": {
+            "image": "shopify: //shop_images/waffles-and-fruit-breakfast.jpg",
+            "layout": "griglia"
+          }
+        },
+        "contact-page": {
+          "type": "pagina di contatto",
+          "settings": {
+            "image": "shopify: //shop_images/waffles-and-fruit-breakfast.jpg"
+          }
+        },
+        "map": {
+          "type": "carta geografica",
+          "settings": {
+            "imagelogo": "",
+            "desktop_logo_size": "30%",
+            "address": "<p>123 Falso St.<br> Toronto, Canada</p><p> Dal lunedì al venerdì, dalle 10:00 alle 21:00<br> Sabato, 11:00 - 21:00<br> Domenica, dalle 11:00 alle 17:00</p>",
+            "map_address": "80 Spadina Ave, Toronto",
+            "button_text": "Ottenere indicazioni",
+            "api_key": "",
+            "background_image": "",
+            "background_image_position": "centro centro"
+          }
+        },
+        "1522671161106": {
+          "type": "Presentazione",
+          "blocks": {
+            "1522671161106-0": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "superiore",
+                "title": "Diapositiva dell'immagine",
+                "subheading": "Racconta la storia del tuo marchio attraverso video e immagini",
+                "button_label": "",
+                "link": ""
+              }
+            },
+            "1522671161106-1": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "superiore",
+                "title": "Diapositiva dell'immagine",
+                "subheading": "Racconta la storia del tuo marchio attraverso video e immagini",
+                "button_label": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671161106-0",
+            "1": "1522671161106-1"
+          },
+          "settings": {
+            "autoplay_speed": "5000",
+            "slideshow_height": "piccolo",
+            "heading_divider": "nessuna"
+          }
+        },
+        "1522671213521": {
+          "type": "rich text",
+          "settings": {
+            "section_title": "Parla del tuo marchio",
+            "text": "<p>Usa questo testo per condividere le informazioni sul tuo marchio con i tuoi clienti. Descrivi un prodotto, condividi annunci o dai il benvenuto ai clienti nel tuo negozio.</p>",
+            "text_size": "medio"
+          }
+        },
+        "1522671286117": {
+          "type": "collezione",
+          "settings": {
+            "title": "Collezione in primo piano",
+            "collection": "",
+            "mobile_grid": "on_mobile_set_row_two"
+          }
+        },
+        "1522671309651": {
+          "type": "eroe",
+          "settings": {
+            "image": "",
+            "alignment": "centro",
+            "text_alignment": "centro",
+            "title": "Immagine con testo in sovrimpressione",
+            "heading_divider": "nessuna",
+            "text": "<p>Usa il testo in sovrimpressione per offrire ai tuoi clienti informazioni sul tuo marchio. Seleziona immagini e testo che si riferiscono al tuo stile e alla tua storia.</p>",
+            "hero_size": "medio",
+            "text_size": "medio",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "piccolo"
+          }
+        },
+        "1522671482965": {
+          "type": "riga delle caratteristiche",
+          "blocks": {
+            "1522671482965-0": {
+              "type": "image_with_text_1",
+              "settings": {
+                "image": "",
+                "layout": "sinistra",
+                "text_alignment": "sinistra",
+                "title": "Immagine con testo",
+                "text": "<p>Accoppia un testo di grandi dimensioni con un&#39;immagine per concentrarti sul prodotto, la raccolta o il post del blog scelto. Aggiungi dettagli su disponibilità, stile o fornisci anche una recensione.</p>",
+                "button_label": "",
+                "button_link": ""
+              }
+            },
+            "1522671482965-1": {
+              "type": "image_with_text_1",
+              "settings": {
+                "image": "",
+                "layout": "giusto",
+                "text_alignment": "sinistra",
+                "title": "Immagine con testo",
+                "text": "<p>Accoppia un testo di grandi dimensioni con un&#39;immagine per concentrarti sul prodotto, la raccolta o il post del blog scelto. Aggiungi dettagli su disponibilità, stile o fornisci anche una recensione.</p>",
+                "button_label": "",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671482965-0",
+            "1": "1522671482965-1"
+          },
+          "settings": {
+            "layout": "pieno"
+          }
+        },
+        "1522671586612": {
+          "type": "raccolta-elenco",
+          "blocks": {
+            "1522671586612-0": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "1522671586612-1": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "1522671586612-2": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "1522671586612-3": {
+              "type": "raccolta_in primo piano",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671586612-0",
+            "1": "1522671586612-1",
+            "2": "1522671586612-2",
+            "3": "1522671586612-3"
+          },
+          "settings": {
+            "layout": "full_without_spacing",
+            "title": "Elenco delle collezioni"
+          }
+        },
+        "1522671638827": {
+          "type": "citazioni",
+          "blocks": {
+            "1522671638827-0": {
+              "type": "citazione",
+              "settings": {
+                "t_image": "",
+                "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+                "author": "Nome dell'autore"
+              }
+            },
+            "1522671638827-1": {
+              "type": "citazione",
+              "settings": {
+                "t_image": "",
+                "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+                "author": "Nome dell'autore"
+              }
+            },
+            "1522671638827-2": {
+              "type": "citazione",
+              "settings": {
+                "t_image": "",
+                "quote": "<p>Aggiungi recensioni e testimonianze dei clienti per mostrare i clienti soddisfatti del tuo negozio.</p>",
+                "author": "Nome dell'autore"
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671638827-0",
+            "1": "1522671638827-1",
+            "2": "1522671638827-2"
+          },
+          "settings": {
+            "title": "Testimonianze"
+          }
+        },
+        "1522671769410": {
+          "type": "newsletter",
+          "settings": {
+            "section_title": "Iscriviti alla nostra Newsletter",
+            "subheading": "Una breve frase che descrive ciò che qualcuno riceverà iscrivendosi",
+            "newsletter_section_text_align": "centro",
+            "image": ""
+          }
+        },
+        "1522671815227": {
+          "type": "Instagram",
+          "settings": {
+            "instagram_client_id": "",
+            "instagram_title": "Instagram"
+          }
+        },
+        "1522671853847": {
+          "type": "barra delle immagini",
+          "blocks": {
+            "1522671853847-0": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "centro",
+                "link": "",
+                "cta_label": ""
+              }
+            },
+            "1522671853847-1": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "centro",
+                "link": "",
+                "cta_label": ""
+              }
+            },
+            "1522671853847-2": {
+              "type": "Immagine",
+              "settings": {
+                "image": "",
+                "alignment": "centro",
+                "link": "",
+                "cta_label": ""
+              }
+            }
+          },
+          "block_order": {
+            "0": "1522671853847-0",
+            "1": "1522671853847-1",
+            "2": "1522671853847-2"
+          },
+          "settings": {
+            "section_height": "medio"
+          }
+        }
+      },
+      "content_for_index": {
+        "0": "1522671161106",
+        "1": "1522671213521",
+        "2": "1522671286117",
+        "3": "1522671309651",
+        "4": "1522671482965",
+        "5": "1522671586612",
+        "6": "1522671638827",
+        "7": "1522671769410",
+        "8": "1522671815227",
+        "9": "1522671853847"
+      }
+    }
+  }
+}
